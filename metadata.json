@@ -1,0 +1,6 @@
+{
+  "name": "Tenfold — Definitive Top 10 Chronicles & Review Platform",
+  "description": "An editorial Top 10 countdown, film and gaming review publication, interactive community ranking arena, and admin publishing studio inspired by Listverse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
